@@ -10,10 +10,13 @@ tmp/
 *.swp
 *~.nib
 local.properties
-
+target/
 .loadpath
 .recommenders
-
+.classpath
+.project
+.settings/
+*/target/*
 # External tool builders
 .externalToolBuilders/
 
@@ -94,7 +97,7 @@ hs_err_pid*
 
 ### Java-Web ###
 ## ignoring target file
-target/
+
 
 ### vscode ###
 .vscode/*
