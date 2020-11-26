@@ -16,7 +16,11 @@ target/
 .classpath
 .project
 .settings/
-*/target/*
+pom.xml
+pom.properties
+*/target
+target
+target/
 # External tool builders
 .externalToolBuilders/
 
