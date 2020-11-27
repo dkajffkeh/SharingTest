@@ -21,6 +21,8 @@ pom.properties
 */target
 target
 target/
+.java
+*.java
 # External tool builders
 .externalToolBuilders/
 
